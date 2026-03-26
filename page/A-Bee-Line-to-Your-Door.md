@@ -1,5 +1,5 @@
 # A Bee-Line to Your Door 
-###### With Personalization, Customization, and Localization
+#### *With Personalization, Customization, and Localization*
 
 Consumers today are inundated with a barrage of promotions, advertisements, and information, and businesses face an uphill task in getting their message across. Sellers often find customers buzzing across into the open doors of wilier competitors. Three aspects of customer-centricity are helping businesses avoid this predicament.
 
