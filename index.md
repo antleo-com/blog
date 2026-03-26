@@ -1,10 +1,7 @@
----
-layout: home
----
 
-# Navigate to:
+# Blogs Index:
 
 |   |   |
 |---|---|
-|  **[Grammar](./indexes/index2-Grammar)** |  Koine Greek Grammar Resources |
-|  **[Resource Links](./indexes/index2-Resources)** |  Links to/Info about Koine Greek Resources |
+|  **[A Bee-Line to Your Door](./page/A-Bee-Line-to-Your-Door)** |  Get Your Customers with Personalization, Customization, and Localization |
+|  **[The Tragedy of Artificial Intelligence](./page/tbd)** |  To be published |
