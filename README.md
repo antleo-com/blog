@@ -1,2 +1,0 @@
-# blog
-Antleo Blog

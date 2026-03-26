@@ -1,0 +1,14 @@
+---
+name: Word
+title: Word
+---
+markdown:kramdown
+
+# SEO Stuff
+author: Charlie Joseph
+description: Gleanings from The Word
+lang: en
+locale: en_GB
+url: "https://antleo.com/Word"
+baseurl: ""
+
