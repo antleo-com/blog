@@ -1,76 +1,91 @@
-<style>
-
-*, body {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-
-/* Navigation */
-.navigation-header {
-  background-color: rgb(73, 51, 153);
-  padding: 0 15px;
-  height: 60px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-nav {
-  width: 100%;
-  max-width: 1200px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.logo-container > a {
-  color: ghostwhite;
-  text-decoration: none;
-  font-weight: 700;
-  font-size: 26px;
-}
-.navigation-items {
-  display: flex;
-  gap: 40px;
-}
-.navigation-items > a {
-  color: ghostwhite;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 16px;
-  transition: .4s ease-in-out;
-}
-.navigation-items > a:hover {
-  color: white;
-}
-.hamburger {
-  display: none;
-  font-size: 20px;
-  font-weight: 800;
-  color: white;
-}
-@media screen and (max-width:768px) {
-  .hamburger {
-    display: flex;
-    cursor: pointer;
-  }
-  .hamburger #closeHam {
-    display: none;
-  }
-  .navigation-items {
-    display: none;
-    flex-direction: column;
-    align-items: center;
-    position: absolute;
-    right: 0;
-    top: 58px;
-    background-color: rgb(73, 51, 153);
-    width: 100%;
-    height: calc(100vh - 58px);
-    padding-top: 60px;
-    gap: 10vh;
-  }
-}
-
-</style>
+ <style>
+ .bar {
+ display: none;
+ }
+ nav {
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: #333;
+ padding: 20px;
+ position: relative;
+ }
+ nav .logo a {
+ color: #fff;
+ font-size: 1.5rem;
+ text-decoration: none;
+ }
+ nav .menu {
+ display: flex;
+ }
+ nav .menu li {
+ margin: 0 10px;
+ }
+ nav .menu li a {
+ color: #fff;
+ text-decoration: none;
+ }
+ nav .menu-toggle {
+ display: none;
+ }
+ nav .menu {
+ display: flex;
+ list-style: none;
+ /* remove the list style */
+ margin: 0;
+ /* remove the default margin */
+ padding: 0;
+ /* remove the default padding */
+ }
+ nav .menu li {
+ margin: 0 10px;
+ }
+ @media screen and (max-width: 768px) {
+ nav .menu {
+ display: none;
+ flex-direction: column;
+ position: absolute;
+ top: 60px;
+ left: 0;
+ right: 0;
+ background-color: #333;
+ z-index: 1;
+ }
+ nav .menu li {
+ width: 100%;
+ }
+ nav .menu li a {
+ padding: 10px;
+ color: #fff;
+ display: block;
+ }
+ nav .menu-toggle {
+ display: block;
+ }
+ nav .menu-toggle span {
+ display: block;
+ width: 30px;
+ height: 5px;
+ background-color: #fff;
+ margin: 5px 0;
+ }
+ nav .menu-toggle.active span:nth-of-type(2) {
+ transform: rotate(45deg);
+ top: 12px;
+ }
+ nav .menu-toggle.active span:nth-of-type(3) {
+ transform: rotate(-45deg);
+ top: 12px;
+ }
+ nav .menu-toggle.active span:nth-of-type(2),
+ nav .menu-toggle.active span:nth-of-type(3) {
+ position: absolute;
+ }
+ nav .menu-toggle.active span:nth-of-type(1) {
+ opacity: 0;
+ }
+ nav .menu-toggle.active+.menu {
+ display: flex;
+ }
+ }
+ </style>
