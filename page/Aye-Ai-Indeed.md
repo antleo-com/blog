@@ -16,6 +16,6 @@ We also do more staid, yet effective, business content that grabs your customers
 
 Our secret? We don't use AI. 
 
-Use the contact form/DM on Linkedin to get in touch.  
+Use the [contact form](https://antleo.com/contact/) / or [Linkedin](https://in.linkedin.com/company/antleo) to get in touch.  
 
 Published: 07th April 2026
