@@ -1,14 +1,14 @@
 ---
-name: Word
-title: Word
+name: Antleo-Blog
+title: Antleo-Blog
 ---
 markdown:kramdown
 
 # SEO Stuff
 author: Charlie Joseph
-description: Gleanings from The Word
+description: Antleo-Blog
 lang: en
 locale: en_GB
-url: "https://antleo.com/Word"
+url: "https://antleo.com/blog"
 baseurl: ""
 
