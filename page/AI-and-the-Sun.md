@@ -1,8 +1,6 @@
 
 # The Sum and the Sun of AI
 
-*tldr: this is a advertisement.*
-
 Recently, I asked AI how far the sun was and it told me it was 93 million miles away. The answer was cold and clinical, but it also gave me other information, more than I could handle, or even use. It told me that 93 million miles was one astronomical unit. There was then a paragraph which told me what an astronomical unit was, and then another, and then a 'more' button for even more knowledge in which to drown meself. But all I could think was, how far really is 93 million miles? If it were, say 98 million miles away would it make any difference?
 
 I then thought of my old friend, the poet. How would he answer this question? I took an imaginary walk down the bright sunlit road that led to his house and knocked on his door. It was almost afternoon but it took him a long time to answer. I could hear him slowly shuffling towards the door, and finally it swung open and there he stood bleary eyed, tousled hair, and that look of irritation that softened slightly when he saw me standing there hungry for an answer. "How far away is the sun really?" I threw it at him before he could bite.
