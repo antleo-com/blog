@@ -7,7 +7,7 @@ So after hauling myself through seven years of the mistaken choice to study soft
 
 So then I switched to freelancing and writing marketing content for IT firms. Surely, all the tools one needed to learn to use would be Microsoft Word or Notepad? But noo, it was the age of web 2.0. Social media was going off the charts. There were new tools to learn. Content had to be sequenced, sliced, diced, pushed, mechanized, industrialized, and all of this needed more tools, more proceses, more technicalities, more abracadabra, more video specifications, more image dimensions. It was endless research, endless learning. Ah the pain!
 
-And so I switched to writing only long-form content. Surely all I needed now would be a plain text editor? But no, it seems now one has to be fiddly about prompts, relearn the English language each time a new AI model is released, get married all over again to a model's ecentricities. Sigh! Life comes full circle. 
+And so I switched to writing only long-form content. Surely all I needed now would be a plain text editor? But no, it seems now one has to be fiddly about prompts, relearn the English language each time a new AI model is released, get married all over again to a model's eccentricities. Sigh! Life comes full circle. 
 
 Thankfully, close to ten years as a frelance writer and the peanuts I've earned along the way have taught me to eat lean. I'm switching now to using pen and paper and attempting shots at more creative copywriting. Perhaps I'll finally discover the sheer joy of writing. Because I still believe, the tools may keep changing, but good writing never does. And perhaps I'll get to that Eden some day!
 
