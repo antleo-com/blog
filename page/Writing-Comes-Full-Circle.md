@@ -11,6 +11,10 @@ And so I switched to writing only long-form content. Surely all I needed now wou
 
 Thankfully, close to ten years as a frelance writer and the peanuts I've earned along the way have taught me to eat lean. I'm switching now to using pen and paper and attempting shots at more creative copywriting. Perhaps I'll finally discover the sheer joy of writing. Because I still believe, the tools may keep changing, but good writing never does. And perhaps I'll get to that Eden some day!
 
-Mandatory plug: This is perhaps an experimental post in fiction writing. For more serious, well-researched, long-form business content, let's connect through: sales@antleo.com; I don't use AI!
+---
 
-First published on: www.antleo.com/blogs
+**Mandatory plug:** This is perhaps an experimental post in fiction writing. For more serious, well-researched, long-form business content, let's connect through: sales@antleo.com; I don't use AI!
+
+---
+
+First published on 21st September 2026 at: www.antleo.com/blogs
